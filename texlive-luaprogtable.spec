@@ -1,6 +1,6 @@
 Name:		texlive-luaprogtable
 Version:	56113
-Release:	1
+Release:	2
 Summary:	Programmable table interface for LuaLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luaprogtable
