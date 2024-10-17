@@ -3,7 +3,7 @@ Version:	56113
 Release:	2
 Summary:	Programmable table interface for LuaLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luaprogtable
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luaprogtable
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaprogtable.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luaprogtable.doc.r%{version}.tar.xz
